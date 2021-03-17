@@ -12,10 +12,11 @@ The application is a web application which is created using HTML, CSS for the Fr
 ## Preview
 ![](Preview.png)
 
-## Technologies 
+## Technologies
 * Python 
 * HTML 
 * CSS
+* React JS
 * Flask
 * Heroku
 * Jupyter Notebook
