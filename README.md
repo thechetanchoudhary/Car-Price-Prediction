@@ -7,7 +7,7 @@
 * [Dataset](#dataset)
 
 ## Introduction
-The application is a web application which is created using HTML, CSS for the Front-End of the application. We created a Random Forest Regression model which we use to predict the selling prices of a used car. 
+The application is a web application which is created using HTML, CSS for the Front-End of the application. We created a Random Forest Regression model which we use to predict the selling prices of a used car. .........
 
 ## Preview
 ![](Preview.png)
