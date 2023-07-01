@@ -19,7 +19,7 @@ The application is a web application which is created using HTML, CSS for the Fr
 * React JS
 * Flask
 * Heroku
-* Jupyter Notebook
+* Jupyter Notebook 
 
 ## Dataset 
 We used an open-source Kaggle dataset by CarDekho.com. The link for the dataset is below. The dataset is a clean dataset with no missing values.
